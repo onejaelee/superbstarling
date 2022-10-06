@@ -1,5 +1,5 @@
 # test.py
-
+#original file by Chris Dahms https://github.com/MicrocontrollersAndMore/TensorFlow_Tut_2_Classification_Walk-through
 import os
 import tensorflow as tf
 import numpy as np
