@@ -1,3 +1,4 @@
+#Original file from Chris Dahms: https://github.com/MicrocontrollersAndMore/TensorFlow_Tut_2_Classification_Walk-through
 import pytesseract
 from PIL import Image
 import cv2
